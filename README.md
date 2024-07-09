@@ -58,9 +58,13 @@ KEY INSIGHTS:
 The key insights for this task will include:
 
 1.Data Structure: Understanding the types of variables and overall structure of the dataset.
+
 2.Distribution Patterns: Identifying the distribution of individual variables, such as whether they are normally distributed or skewed.
+
 3.Correlations: Discovering relationships between variables and identifying which variables are strongly correlated.
+
 4.Outliers: Detecting any anomalies or outliers that might impact analysis.
+
 5.Visual Representations: Gaining insights through visualizations like histograms, scatter plots, and heatmaps to make data patterns more apparent.
 
 
