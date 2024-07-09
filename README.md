@@ -1,10 +1,16 @@
 # CODETECH-INTERSHIP-TASK1
 Name: MAILA DIVYA
+
 Company: CODETECH IT SOLUTIONS
+
 ID: CT6WDS92
+
 Domain: Data Science
+
 Duration: June to july 2024
+
 Mentor: SRAVANI
+
 
 OVERVIEW OF THE PROJECT
 
