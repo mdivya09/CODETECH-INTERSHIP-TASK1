@@ -1,0 +1,38 @@
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# Load the Iris dataset
+from sklearn.datasets import load_iris
+data = load_iris()
+iris = pd.DataFrame(data.data, columns=data.feature_names)
+iris['species'] = data.target
+
+# Display the first few rows of the dataset
+print("First few rows of the dataset:")
+print(iris.head())
+
+# Display basic statistics
+print("\nBasic statistics of the dataset:")
+print(iris.describe())
+
+# Check for missing values
+print("\nMissing values in the dataset:")
+print(iris.isnull().sum())
+
+# Visualize the distribution of features
+plt.figure(figsize=(10, 6))
+sns.histplot(iris, kde=True)
+plt.title("Distribution of Features")
+plt.show()
+
+# Pairplot to visualize relationships between features
+sns.pairplot(iris, hue='species', palette='viridis')
+plt.show()
+
+# Heatmap to visualize correlations
+plt.figure(figsize=(8, 6))
+sns.heatmap(iris.corr(), annot=True, cmap='coolwarm')
+plt.title("Correlation Heatmap")
+plt.show()
