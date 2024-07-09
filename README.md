@@ -72,3 +72,5 @@ OUTPUT:
 
 ![Screenshot (95)](https://github.com/mdivya09/CODETECH-INTERSHIP-TASK1/assets/163804400/2db49611-c564-4484-8075-c3d0a724f031)
 
+![Screenshot (96)](https://github.com/mdivya09/CODETECH-INTERSHIP-TASK1/assets/163804400/c2a246e8-23dc-4241-8dbe-995a0953c90e)
+
