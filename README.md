@@ -67,6 +67,6 @@ The key insights for this task will include:
 
 5.Visual Representations: Gaining insights through visualizations like histograms, scatter plots, and heatmaps to make data patterns more apparent.
 
-
+![Screenshot (94)](https://github.com/mdivya09/CODETECH-INTERSHIP-TASK1/assets/163804400/5a030ba5-89eb-47a7-9fa7-92b40def1385)
 
 
